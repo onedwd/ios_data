@@ -23,8 +23,13 @@ Cruise Profile Data
 
   - ~/Bottle
 
-    adfsdf
+    .bot files are ...
+
+    .che files are ....
 
   - ~/CTD
+
+    .ctd files are ...
+
   - ~/DOC
   - ~/LOGS
