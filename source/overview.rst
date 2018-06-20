@@ -8,10 +8,105 @@ The shared drive mounting location is::
 
 	 //dcbciosna01a/ios_osd$/osd_data_archive
 
-Cruise profile data are located at::
+The most accessed data are:
+
+Cruise profile data (Water profile data from oceanographic missions) are located at::
 
 	 //dcbciosna01a/ios_osd$/osd_data_archive/Cruise_data
 
-Mooring data are located at::
+Mooring data (Data collected from sub-surface moorings) are located at::
 
 	//dcbciosna01a/ios_osd$/osd_data_archive/Mooring_data
+
+The full list:
+
+1
+**BC Ferries Data**
+
+Fluorometer data collected on BC ferries runs.
+
+2
+**Climatology**
+
+Statistics files for temperature, salinity and oxygen by season for Queen Charlotte Strait.  
+
+3
+**Cruise_data**
+
+Water profile data from oceanographic missions.
+
+4
+**Drifting Buoys**
+
+1972 drifting buoy data from Station Papa.
+
+5
+**Fluorometer Data from Jim Gower**
+
+Fluorometer Data collected by Dr. Jim Gower
+
+6
+**Frank Whitney's Files**
+
+Frank Whitney's comprehensive North Pacific nutrient file.
+
+7
+**Incomplete Projects**
+
+Data that requires further work or needs a home.
+
+8
+**Ken Stephen's productivity Data 1969 - 1977**
+
+Productivity data from Ken Stephen’s publications. See 1README.DOC file
+
+9
+**Lists**
+
+Lists of filenames in the IOS Archive that considered to be generally useful.  See 1README.LIS file.
+
+10
+**MET data**
+
+Line P meteorological files prepared for Dr. C.S. Wong.  See 1README.TXT file.
+
+11
+**Mooring_data**
+
+Data collected from sub-surface moorings.
+
+12
+**Nanoose**
+
+See file 1README_Nanoose_Files.doc. 
+
+13
+**Riverflo**
+
+River flow data (monthly) from selected major rivers in BC and the US. See 1README.DOC file.
+
+14
+**Search Engine**
+
+Line P polygon required by web search engine.
+
+15
+**Sediment Traps and Particle Flux**
+
+Sediment Trap data.
+
+16
+**SPECPROJ**
+
+Data from "SPECIAL PROJECTS" that do not fall under the other categories in the archive.  See 1README.LIS file.
+
+17
+**UBC**
+
+Oceanographic data collected by the University of British Columbia.
+
+18
+**UOFW**
+
+Oceanographic data collected by the University of Washington.
+
