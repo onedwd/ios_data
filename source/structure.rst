@@ -38,7 +38,12 @@ Cruise Profile Data
     **.ctd**: Processed profile data from CTDs, usually from downcast, bin-averaged and recalibrated if appropriate 
 
   - ~/DOC
+
+    Important documents live here, such as ~/[$cruise_ID]_Processing_Report.doc, which gives detailed data processing notes
+
   - ~/LOGS
+
+    Everything that happened during a cruise is recorded in the cruise log....
 
 
 .. _mooring-data-label:
