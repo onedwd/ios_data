@@ -3,18 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+Welcome to OSD Data Centre!
 ==================================================
 
-Contents:
+.. Contents:
+
+..
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
-
+..   :maxdepth: 2
+..   :glob:
    *
 
+.. toctree::
+   :caption: Data Archive Overview
+   
+   overview
+   
+   structure
 
+   readme
 
 Indices and tables
 ==================
