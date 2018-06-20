@@ -10,11 +10,11 @@ The shared drive mounting location is::
 
 The most accessed data are:
 
-Cruise profile data (Water profile data from oceanographic missions) are located at::
+ :ref:`cruise-data-label` (water profile data from oceanographic missions) are located at::
 
 	 //dcbciosna01a/ios_osd$/osd_data_archive/Cruise_data
 
-Mooring data (Data collected from sub-surface moorings) are located at::
+ :ref:`mooring-data-label` (data collected from sub-surface moorings) are located at::
 
 	//dcbciosna01a/ios_osd$/osd_data_archive/Mooring_data
 
