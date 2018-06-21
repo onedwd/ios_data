@@ -27,5 +27,10 @@ Welcome to OSD Data Centre!
 
    tools
 
+Indices and tables
+==================
 
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
