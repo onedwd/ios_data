@@ -1,12 +1,12 @@
 .. _ios-shell-label:
 
 ========================
-IOS_Shell
+IOS_Shell 
 ========================
 
-- Location::
+- Installation (Windows Only)::
 
-	//dcbciosna01a/osdshare/IOSShell/ISPROD/IOSshell.exe
+	//dcbciosna01a/osdshare/IOSShell/setup/IS_manager.exe
 
 
 .. _wp-site-label:
