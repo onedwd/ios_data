@@ -22,7 +22,10 @@ Welcome to OSD Data Centre!
    
    structure
 
-   readme
+.. toctree::
+   :caption: Data Search and Extraction Tools
+
+   tools
 
 Indices and tables
 ==================

@@ -1,6 +1,6 @@
-============
-Structures
-============
+========================
+OSD Archive Structures
+========================
 
 .. _cruise-data-label:
 
@@ -39,11 +39,11 @@ Cruise Profile Data
 
   - ~/DOC
 
-    Important documents live here, such as ~/[$cruise_ID]_Processing_Report.doc, which gives detailed data processing notes
+    Important documents live here, such as ~/[$cruise_ID]_Processing_Report.doc, which gives detailed data processing notes; spreadsheets from analysts if you want to dig deeper; XREF.LIS file that lists all casts, station times and positions for a cruise.
 
   - ~/LOGS
 
-    Everything that happened during a cruise is recorded in the cruise log....
+    Scanned rosette sheets; general log book
 
 
 .. _mooring-data-label:
