@@ -29,6 +29,11 @@ Welcome to OSD Data Centre!
 
    tools
 
+.. toctree::
+   :caption: Contact Us
+
+   contacts
+
 Indices and tables
 ==================
 
