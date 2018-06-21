@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OSD Data Archive Documentaion'
+project = u'OSD Data Centre Documentaion'
 copyright = u'2018, OSD/IOS'
 
 # The version info for the project you're documenting, acts as replacement for

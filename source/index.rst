@@ -22,10 +22,19 @@ Welcome to OSD Data Centre!
    
    structure
 
+   otherlinks
+
 .. toctree::
    :caption: Data Search and Extraction Tools
 
    tools
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
 
 

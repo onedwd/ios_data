@@ -1,3 +1,14 @@
+.. _ios-shell-label:
+
+========================
+IOS_Shell
+========================
+
+- Location::
+
+	//dcbciosna01a/osdshare/IOSShell/ISPROD/IOSshell.exe
+
+
 .. _wp-site-label:
 
 ========================
@@ -25,6 +36,8 @@ WaterProperties Website
   #. Be careful when using wild card to search for variables. e.g. temperature\* will return all temperatures including 'temperature:lab' which might not be what you wanted...
   #. Only return 1000 results
   #. Need manual path manipulation in order to use for :ref:`ios-shell-label`
+  #. If you are using 'Channel Name' to search, make sure you set the 'Condition =' to 'present'
+  #. 'Refine Search' function does NOT retain the information that you put in for the channel name
   #. anything else?
 
 
@@ -32,13 +45,5 @@ WaterProperties Website
 Matlab
 ========================
 
-.. _ios-shell-label:
 
-========================
-IOS_Shell
-========================
-
-- Location::
-
-	//dcbciosna01a/osdshare/IOSShell/ISPROD/IOSshell.exe
 
