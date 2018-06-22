@@ -4,6 +4,8 @@
 IOS_Shell 
 ========================
 
+IOS Shell is an in-house software designed to be a general purpose utility for data processing, analysis, plotting and file manipulation. It uses a common file format referred to as the IOS Header format, and the quality flags are mostly compatible with WOCE standards.
+
 - Installation (Windows Only)::
 
 	//dcbciosna01a/osdshare/IOSShell/setup/IS_manager.exe

@@ -2,11 +2,11 @@
 Contacts
 ============
 
-If you have any questions, please email: 
+If you have any questions, please email IOS Data Centre: 
 
-	`IOS Data Centre`_
+    DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO(at)dfo-mpo.gc.ca
 
-.. _IOS Data Centre: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
+
 
 
 

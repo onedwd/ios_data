@@ -12,11 +12,9 @@ Ocean Station Papa, situated at 50°N, 145°W, was operated as an ocean weather 
 
 	https://www.waterproperties.ca/linep/
 
-- Contacts: 
-
-	`Marie Robert`_
-
-.. _Marie Robert: marie.robert@dfo-mpo.gc.ca
+- Contacts:
+	
+	 Marie.Robert(at)dfo-mpo.gc.ca
 
 .. _lths-label:
 
@@ -28,11 +26,9 @@ Daily sea surface temperature and salinity observations have been carried out at
 
 	http://www.pac.dfo-mpo.gc.ca/science/oceans/data-donnees/lightstations-phares/index-eng.html
 
-- Contacts: 
+- Contacts:
 
-	`Peter Chandler`_
-
-.. _Peter Chandler: Peter.Chandler@dfo-mpo.gc.ca
+	Peter.Chandler(at)dfo-mpo.gc.ca
 
 .. _buoy-data-label:
 
