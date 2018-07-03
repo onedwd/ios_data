@@ -30,6 +30,11 @@ Welcome to OSD Data Centre!
    tools
 
 .. toctree::
+   :caption: Tutorials and Packages
+
+   Python
+
+.. toctree::
    :caption: Contact Us
 
    contacts
