@@ -32,7 +32,7 @@ Welcome to OSD Data Centre!
 .. toctree::
    :caption: Tutorials and Packages
 
-   Python
+   python
 
 .. toctree::
    :caption: Contact Us
